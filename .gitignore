@@ -1,0 +1,4 @@
+# Files that we are not tracking
+*.docx
+*.zip
+*.txt
